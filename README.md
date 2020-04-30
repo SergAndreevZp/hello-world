@@ -1,5 +1,5 @@
 # hello-world
 readme.md
 
-Hello! I real nub! 
-MF!
+Hi! This is second probe. 
+I think i can du it.
